@@ -6,3 +6,6 @@ console.log(galleryItems);
 
 value = 15;
 console.log(value);
+
+
+
